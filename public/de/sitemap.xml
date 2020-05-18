@@ -3,293 +3,293 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/de/projects/photography/</loc>
+    <loc>http://jacobsargent.com/de/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/projects/photography/"
+                href="http://jacobsargent.com/fr/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/photography/"
+                href="http://jacobsargent.com/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/photography/"
+                href="http://jacobsargent.com/de/projects/photography/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/projects/design/</loc>
+    <loc>http://jacobsargent.com/de/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/projects/design/"
+                href="http://jacobsargent.com/fr/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/design/"
+                href="http://jacobsargent.com/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/design/"
+                href="http://jacobsargent.com/de/projects/design/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/projects/writing/</loc>
+    <loc>http://jacobsargent.com/de/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/projects/writing/"
+                href="http://jacobsargent.com/fr/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/writing/"
+                href="http://jacobsargent.com/de/projects/writing/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/projects/</loc>
+    <loc>http://jacobsargent.com/de/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/projects/"
+                href="http://jacobsargent.com/fr/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/"
+                href="http://jacobsargent.com/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/"
+                href="http://jacobsargent.com/de/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/</loc>
+    <loc>http://jacobsargent.com/de/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/blog/"
+                href="http://jacobsargent.com/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/"
+                href="http://jacobsargent.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/"
+                href="http://jacobsargent.com/de/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/hipster-ipsum/</loc>
+    <loc>http://jacobsargent.com/de/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/blog/hipster-ipsum/"
+                href="http://jacobsargent.com/fr/blog/hipster-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/hipster-ipsum/"
+                href="http://jacobsargent.com/blog/hipster-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/hipster-ipsum/"
+                href="http://jacobsargent.com/de/blog/hipster-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/ipsum/</loc>
+    <loc>http://jacobsargent.com/de/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/tags/ipsum/"
+                href="http://jacobsargent.com/fr/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/ipsum/"
+                href="http://jacobsargent.com/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/ipsum/"
+                href="http://jacobsargent.com/de/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/</loc>
+    <loc>http://jacobsargent.com/de/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/"
+                href="http://jacobsargent.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/"
+                href="http://jacobsargent.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/"
+                href="http://jacobsargent.com/de/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/</loc>
+    <loc>http://jacobsargent.com/de/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/tags/"
+                href="http://jacobsargent.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/"
+                href="http://jacobsargent.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/"
+                href="http://jacobsargent.com/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/words/</loc>
+    <loc>http://jacobsargent.com/de/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/tags/words/"
+                href="http://jacobsargent.com/fr/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/words/"
+                href="http://jacobsargent.com/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/words/"
+                href="http://jacobsargent.com/de/tags/words/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/code/</loc>
+    <loc>http://jacobsargent.com/de/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/tags/code/"
+                href="http://jacobsargent.com/fr/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/code/"
+                href="http://jacobsargent.com/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/code/"
+                href="http://jacobsargent.com/de/tags/code/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/startup-ipsum/</loc>
+    <loc>http://jacobsargent.com/de/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/blog/startup-ipsum/"
+                href="http://jacobsargent.com/fr/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/startup-ipsum/"
+                href="http://jacobsargent.com/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/startup-ipsum/"
+                href="http://jacobsargent.com/de/blog/startup-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/coffee/</loc>
+    <loc>http://jacobsargent.com/de/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/tags/coffee/"
+                href="http://jacobsargent.com/fr/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/coffee/"
+                href="http://jacobsargent.com/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/coffee/"
+                href="http://jacobsargent.com/de/tags/coffee/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/images/</loc>
+    <loc>http://jacobsargent.com/de/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/tags/images/"
+                href="http://jacobsargent.com/fr/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/images/"
+                href="http://jacobsargent.com/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/images/"
+                href="http://jacobsargent.com/de/tags/images/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/coffee-ipsum/</loc>
+    <loc>http://jacobsargent.com/de/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.com/fr/blog/coffee-ipsum/"
+                href="http://jacobsargent.com/fr/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/coffee-ipsum/"
+                href="http://jacobsargent.com/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/coffee-ipsum/"
+                href="http://jacobsargent.com/de/blog/coffee-ipsum/"
                 />
   </url>
   
