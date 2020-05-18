@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jakob Sargent</title>
-    <link>http://jacobsargent.com/de/tags/</link>
+    <link>https://jacobsargent.com/de/tags/</link>
     <description>Recent content in Tags on Jakob Sargent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
     
-	<atom:link href="http://jacobsargent.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jacobsargent.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ipsum</title>
-      <link>http://jacobsargent.com/de/tags/ipsum/</link>
+      <link>https://jacobsargent.com/de/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>http://jacobsargent.com/de/tags/ipsum/</guid>
+      <guid>https://jacobsargent.com/de/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>http://jacobsargent.com/de/tags/words/</link>
+      <link>https://jacobsargent.com/de/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>http://jacobsargent.com/de/tags/words/</guid>
+      <guid>https://jacobsargent.com/de/tags/words/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>http://jacobsargent.com/de/tags/code/</link>
+      <link>https://jacobsargent.com/de/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>http://jacobsargent.com/de/tags/code/</guid>
+      <guid>https://jacobsargent.com/de/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coffee</title>
-      <link>http://jacobsargent.com/de/tags/coffee/</link>
+      <link>https://jacobsargent.com/de/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>http://jacobsargent.com/de/tags/coffee/</guid>
+      <guid>https://jacobsargent.com/de/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>http://jacobsargent.com/de/tags/images/</link>
+      <link>https://jacobsargent.com/de/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>http://jacobsargent.com/de/tags/images/</guid>
+      <guid>https://jacobsargent.com/de/tags/images/</guid>
       <description></description>
     </item>
     
